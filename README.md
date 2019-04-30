@@ -27,4 +27,6 @@ option and the file will run itself...
 
 This model achieved pretty amazing results. The results are well 
 documented in the iPython notebook.
+
+Email: lungilesamukelomadi@gmail.com
 	
